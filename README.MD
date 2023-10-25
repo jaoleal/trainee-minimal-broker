@@ -4,7 +4,7 @@
 
 Seguindo o diagrama, segue as funções de cada componente.
 
-### AWS PHP Rest Api Isoladora:
+### AWS PHP Rest Api Isoladora(Composer, Cake PHP):
  Sua função é basicamente isolar as funções das APIS públicas: Coinranking e Coin API
 
 ### Orquestrador Node.Js(Express, node-postgres):
